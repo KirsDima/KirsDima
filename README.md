@@ -1,7 +1,18 @@
 ## Hi there 👋
 Welcome to the **Neural Network Development Repository**! 🚀 This repository is dedicated to exploring, designing, and implementing neural network models for various applications in machine learning and artificial intelligence.
-## About the Project
 
+## About Me
+I am a software developer with a professional background of over 8 years in IT technical support and 1 year of experience as a junior developer.
+
+Skills and Expertise:
+
+Programming Language: C# (.NET)
+Frameworks:
+Proficient in WinForms
+Currently learning WPF
+I am passionate about continuously improving my programming skills and building applications that make a difference.
+
+## About the Project
 This repository is a growing collection of neural network projects, tools, and experiments. It serves as a hub for sharing ideas, building scalable models, and experimenting with state-of-the-art techniques in AI.
 
 ### Goals:
